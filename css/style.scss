@@ -1,0 +1,39 @@
+$primary: #201f1f;
+$secondary: #f5b818;
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: $primary;
+  color: white !important;
+}
+
+nav {
+  background-color: $primary !important;
+  a.navbar-brand {
+    font-weight: 500 !important;
+    font-size: 22px !important;
+  }
+  ul li a {
+    font-size: 16px !important;
+    font-weight: 400 !important;
+  }
+}
+.nama {
+  font-weight: 600;
+  color: $secondary;
+  font-size: 24px !important;
+}
+
+.profesi {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.btnhire {
+  background-color: $secondary !important;
+  color: white;
+  padding: 12px 56px;
+  border-radius: 20px;
+  font-weight: 500;
+  font-size: 18px;
+}

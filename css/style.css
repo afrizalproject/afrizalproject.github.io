@@ -1,0 +1,40 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #201f1f;
+  color: white !important;
+}
+
+nav {
+  background-color: #201f1f !important;
+}
+
+nav a.navbar-brand {
+  font-weight: 500 !important;
+  font-size: 22px !important;
+}
+
+nav ul li a {
+  font-size: 16px !important;
+  font-weight: 400 !important;
+}
+
+.nama {
+  font-weight: 600;
+  color: #f5b818;
+  font-size: 24px !important;
+}
+
+.profesi {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.btnhire {
+  background-color: #f5b818 !important;
+  color: white;
+  padding: 12px 56px;
+  border-radius: 20px;
+  font-weight: 500;
+  font-size: 18px;
+}
+/*# sourceMappingURL=style.css.map */
